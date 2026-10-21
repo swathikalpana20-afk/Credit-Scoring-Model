@@ -1,0 +1,5 @@
+SYNTHETIC / DEMO DATA NOTICE
+==============================
+This dataset (credit_data.csv) was generated synthetically for demonstration.
+It is NOT real financial data and does NOT represent real individuals.
+Do NOT use this data for any real financial decision-making.
